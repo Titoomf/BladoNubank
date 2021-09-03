@@ -1,3 +1,3 @@
-#### Estudando sobre flutter e replicando no aplicação da nubank
+#### Estudando sobre flutter e replicando nA aplicação da nubank
 
 
